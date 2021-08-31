@@ -2,11 +2,8 @@
     <div>
         <x-jet-application-logo class="block h-12 w-auto" />
     </div>
+    <div class="mt-2">
 
-    <div class="mt-8 text-2xl">
-        Dashboard
-    </div>
-
-    
+    </div>    
 </div>
 
