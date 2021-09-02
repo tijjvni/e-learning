@@ -1,4 +1,4 @@
-<div>
+<div class="w-full">
 
 
             <!-- Left Side -->
