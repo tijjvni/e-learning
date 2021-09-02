@@ -1,6 +1,6 @@
 <div class="w-full">
 
-    <div class="w-full md:w-2/5">
+    <div class="w-full md:w-2/6">
 
         <div class="max-w-md p-8 sm:flex sm:space-x-6 bg-coolGray-50 text-coolGray-800">
             <div class="flex-shrink-0 w-full mb-6 h-44 sm:h-32 sm:w-32 sm:mb-0">
@@ -19,12 +19,14 @@
                         <span class="text-coolGray-600">leroy.jenkins@company.com</span>
                     </span>
                     <span class="flex items-center space-x-2">
-                        <i class="fa fa"
+                        <i class="fa fa-user"></i>
                         <span class="text-coolGray-600">+25 381 77 983</span>
                     </span>
                 </div>
             </div>
         </div>    
+        <div class="w-full md:w-4/6">
+        </div>
 
     </div>
 </div>
