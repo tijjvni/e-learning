@@ -5,7 +5,7 @@
         </h2>
     </x-slot>
 
-    <div class="py-5">    
+    <div class="py-5 w-full">    
         @livewire('dashboard')
     </div>
 </x-app-layout>

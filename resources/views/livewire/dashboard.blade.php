@@ -25,8 +25,8 @@
                 </div>
             </div>
         </div>    
-        <div class="w-full md:w-4/6">
-        </div>
-
     </div>
+    <div class="w-full md:w-4/6">
+    </div>
+
 </div>
